@@ -2,25 +2,25 @@
 This repository contains all of my exercises and homeworks from all courses at Sofia University.
 
 ### :white_check_mark: C# Basics
-01. Syntax
-02. Output
-03. Comments
-04. Variables
-05. Data Types
-06. Type Casting
-07. User Input
-08. Operators
-09. Strings
-10. Booleans
-11. If...Else
-12. Switch
-13. While Loop
-14. For Loop
-15. Break/Continue
-16. Arrays
-17. Methods
-18. Method Parameters
-19. Method Overloading
+  - Syntax
+  - Output
+  - Comments
+  - Variables
+  - Data Types
+  - Type Casting
+  - User Input
+  - Operators
+  - Strings
+  - Booleans
+  - If...Else
+  - Switch
+  - While Loop
+  - For Loop
+  - Break/Continue
+  - Arrays
+  - Methods
+  - Method Parameters
+  - Method Overloading
 
 ### :white_check_mark: C# OOP/Algorithms
 01. Classes
