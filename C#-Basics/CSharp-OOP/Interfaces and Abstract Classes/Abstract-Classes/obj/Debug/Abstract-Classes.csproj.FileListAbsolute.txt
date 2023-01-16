@@ -1,0 +1,6 @@
+C:\Users\alexs\Desktop\abstraction\Abstraction test branch\Abstract-Classes\obj\Debug\Abstract-Classes.csprojAssemblyReference.cache
+C:\Users\alexs\Desktop\abstraction\Abstraction test branch\Abstract-Classes\bin\Debug\Abstract-Classes.exe.config
+C:\Users\alexs\Desktop\abstraction\Abstraction test branch\Abstract-Classes\bin\Debug\Abstract-Classes.exe
+C:\Users\alexs\Desktop\abstraction\Abstraction test branch\Abstract-Classes\bin\Debug\Abstract-Classes.pdb
+C:\Users\alexs\Desktop\abstraction\Abstraction test branch\Abstract-Classes\obj\Debug\Abstract-Classes.exe
+C:\Users\alexs\Desktop\abstraction\Abstraction test branch\Abstract-Classes\obj\Debug\Abstract-Classes.pdb

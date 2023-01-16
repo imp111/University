@@ -1,0 +1,4 @@
+Сортирайте /etc/passwd лексикографски по поле UserID.
+
+	sort -t ":" -k 3 -d /etc/passwd
+	sort --field-separator=":" -k 3 -d /etc/passwd 

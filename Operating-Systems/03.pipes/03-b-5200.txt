@@ -1,0 +1,5 @@
+Изтрийте всички срещания на буквата 'a' (lower case) в /etc/passwd и намерете броят на оставащите символи.
+
+	cat /etc/passwd | wc -c						#before removing lower case 'a' (count = 1647)
+	sed -i 's/a/''/g' /etc/passwd | cat /etc/passwd | wc -c 	#after removing all lower case 'a' (count = 1584)
+

@@ -1,0 +1,3 @@
+Копирайте файл /home/tony/population.csv във вашата home директория.
+
+	cp /home/tony/population.csv ~/

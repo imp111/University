@@ -1,0 +1,7 @@
+Колко файлове в /bin са 'shell script'-oве? (Колко файлове в дадена директория са ASCII text?)
+
+	find /bin/ -exec file {} \; | cut -d ":" -f 2 | grep -F "shell script" | wc -l
+	find /bin/ -exec file {} \; | cut -d ":" -f 2 | grep -F "ASCII text" | wc -l
+
+	find /bin/ -exec file {} \; | cut -d ":" -f 2 | cut -d "," -f 1 | grep -F "shell script" | wc -l
+	find /bin/ -exec file {} \; | cut -d ":" -f 2 | cut -d "," -f 1 | grep -F "ASCII text" | wc -l

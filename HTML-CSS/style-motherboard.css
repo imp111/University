@@ -1,0 +1,44 @@
+body {
+  color: black;
+  background-color: #FAEBD7;
+}
+
+#container {
+   width: 1000px;
+   color: black;
+   background-color: white;
+   text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#header {
+   color: black;
+   background-color: #BA55D3;
+}
+
+#navigation {
+   font-size: 150%;
+   background-color: #A9A9A9;
+}
+
+ul li {
+   float: center;
+   clear: both;
+   display: inline-block;
+   padding: 10px;
+   text-align: center;
+}
+
+.pic1 {
+   width: 400px;
+   padding: 10px;
+}
+
+.pic2 {
+   width: 450px;
+   padding: 10px;
+}
+
+
+ 

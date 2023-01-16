@@ -1,0 +1,6 @@
+The entered number is : 1
+The entered number is : 2
+The entered number is : 3
+The entered number is : 4
+The entered number is : 5
+The entered number is : 10
