@@ -23,19 +23,19 @@ This repository contains all of my exercises and homeworks from all courses at S
   - Method Overloading
 
 ### :white_check_mark: C# OOP/Algorithms
-01. Classes
-02. OOP
-03. Classes/Objects
-04. Class Members
-05. Constructors
-06. Access Modifiers
-07. Properties
-08. Inheritance
-09. Polymorphism
-10. Abstraction
-11. Interface
-12. Enums
-13. Exceptions
+  - Classes
+  - OOP
+  - Classes/Objects
+  - Class Members
+  - Constructors
+  - Access Modifiers
+  - Properties
+  - Inheritance
+  - Polymorphism
+  - Abstraction
+  - Interface
+  - Enums
+  - Exceptions
 
 ## :white_check_mark: Operating Systems
 
