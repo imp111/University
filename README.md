@@ -1,7 +1,7 @@
 # Sofia University Faculty of Physics - Computer Engineering 
 This repository contains all of my exercises and homeworks from all courses at Sofia University.
 
-### :white_check_mark: C# Basics :heavy_check_mark:
+### :white_check_mark: C# Basics
 01. Syntax
 02. Output
 03. Comments
@@ -22,7 +22,7 @@ This repository contains all of my exercises and homeworks from all courses at S
 18. Method Parameters
 19. Method Overloading
 
-### :white_check_mark: C# OOP/Algorithms :heavy_check_mark:
+### :white_check_mark: C# OOP/Algorithms
 01. Classes
 02. OOP
 03. Classes/Objects
@@ -37,8 +37,8 @@ This repository contains all of my exercises and homeworks from all courses at S
 12. Enums
 13. Exceptions
 
-## :white_check_mark: Operating Systems :heavy_check_mark:
+## :white_check_mark: Operating Systems
 
-## :white_check_mark: Python Basics :heavy_check_mark:
+## :white_check_mark: Python Basics 
 
-## :white_check_mark: C/C++ :heavy_check_mark:
+## :white_check_mark: C/C++
