@@ -1,0 +1,54 @@
+File System Structure:
+/ - root directory (the start of the entire file system)
+/boot - contains files that are used by the boot loader (grub.cfg)
+/root - root user home directory
+/etc - contains configuration files
+/bin - user commands (/bin, /usr/bin)
+/sbin - system/file system commands (/usr/sbin)
+/opt - optional add-on applications (not part of the OS apps)
+/proc - running processes (only exist in memory)
+/lib - C programming library files needed by commands and apps (/usr/lib)
+/tmp - directory for temporary files
+/home - home directory of every user
+/var - system logs 
+/run - System daemons that start very early (systemd and udev) to store temporary runtime files like PID files
+/mnt - to mount external filesystem (NFS) e.g. for things like external hard drives, flash drives etc.
+/media - for cdrom mounts
+
+Commands:
+whoami - shows the current logged in user
+Navigating through the files system
+cd - change directory
+	- ./ - current directory
+	- ../ - parent directory
+	- Relative Path - It identifies a location relative to you current position (/OperatingSystems/Lectures/)
+	- Absolute Path - Always begins with /. It is the path from the root directory to the current position (/home/userName/OperatingSystems/Lectures/)
+pwd - print working directory
+ls - list
+find - 
+locate -
+
+File Permisions
+d - directory
+- - regular file
+l - link
+c - special file or device file
+s - socket
+p - named pipe
+b - block device
+
+ls -l Structure:
+Type	# of Links	Owner	Group	Size	Month	Day	Time	Name	
+
+User Administration:
+passwd [userName] - change user password
+
+Creating Files and Directories:
+mkdir - make directory
+rmdir - remove empty directories
+rm - remove files and directories (you can also remove directories - recursivly)
+touch - create files
+cp - copy file/files
+	cp -R source desitnation - copy directories recursivly
+mv - move (can be used to rename files aswell)
+
