@@ -39,6 +39,28 @@ This repository contains all of my exercises and homeworks from all courses at S
 
 ## :white_check_mark: Operating Systems
 
-## :white_check_mark: Python Basics 
+## :white_check_mark: C
+  - Output
+  - Comments
+  - Variables
+  - Data Types
+  - Constants
+  - Operators
+  - Booleans
+  - If...Else
+  - Switch
+  - While Loop
+  - For Loop
+  - Break/Continue
+  - Arrays
+  - Strings
+  - User Input
+  - Memory Address
+  - Pointers
+  - Functions
+  - Function Parameters
+  - Function Declaration
+  - Recursion
+  - Math Functions
 
-## :white_check_mark: C/C++
+
