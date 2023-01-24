@@ -1,4 +1,0 @@
-Намерете броя на символите в /etc/passwd. А колко реда има в /etc/passwd?
-
-	wc -m /etc/passwd	#number of chars
-	wc -l /etc/passwd	#number of lines

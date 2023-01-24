@@ -1,3 +1,0 @@
-За всяка група от /etc/group изпишете "Hello, група", като ако това е вашата група, напишете "Hello, група - this is me!".
-
-	awk -F ":" '$4 == "aleksandar" {print "Hello, " $1 " - this is me"} $4 != "aleksandar" {print "Hello, " $1}' groupCopy	

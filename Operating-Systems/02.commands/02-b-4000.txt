@@ -1,3 +1,0 @@
-02-b-4000: Копирайте най-големия файл от тези, намиращи се в /etc, в home директорията си.
-
-	find /etc -nowarn -type f -exec wc -c {} \; | sort -n | tail -1 | cp $(cut -d " " -f 2) ~/

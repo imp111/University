@@ -1,4 +1,0 @@
-Изведете статистика за най-често срещаните символи в трите файла.
-
-	paste -d "\n" file1 file2 file3 | sort | uniq -c | sort -n -r | head -n 5
-		

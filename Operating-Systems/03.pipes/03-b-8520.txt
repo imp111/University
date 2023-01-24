@@ -1,3 +1,0 @@
-Изпишете всички usernames от /etc/passwd с главни букви.
-
-	awk -F ":" '{print toupper($1)}' /etc/passwd

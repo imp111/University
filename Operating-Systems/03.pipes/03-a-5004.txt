@@ -1,3 +1,0 @@
-Изведете целите редове от /etc/passwd за хората от 03-a-5003
-
-	awk -F ":" 'length($1) <= 7 {print}' /etc/passwd	

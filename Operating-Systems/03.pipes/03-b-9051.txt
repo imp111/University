@@ -1,3 +1,0 @@
-Използвайки файл population.csv, намерете колко е общото население на света през 2008 година. А през 2016?
-
-	no access to this file, can't complete exercise. -to do- get the file	

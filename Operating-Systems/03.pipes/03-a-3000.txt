@@ -1,6 +1,0 @@
-Запаметете във файл в своята home директория резултатът от командата ls -l изпълнена за вашата home директорията.
-Сортирайте създадения файла по второ поле (numeric, alphabetically).
-
-	ls -l ~ >file.txt
-	sort -k 2 -n file.txt
-	sort -k 2 -d file.txt
