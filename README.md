@@ -37,8 +37,6 @@ This repository contains all of my exercises and homeworks from all courses at S
   - Enums
   - Exceptions
 
-## :white_check_mark: Operating Systems
-
 ## :white_check_mark: C
   - Output
   - Comments
@@ -62,5 +60,3 @@ This repository contains all of my exercises and homeworks from all courses at S
   - Function Declaration
   - Recursion
   - Math Functions
-
-
